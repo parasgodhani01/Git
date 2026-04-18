@@ -1,0 +1,5 @@
+After Cloning 
+
+Change Directory 
+
+cd foldername ( which is your repos folder name )
